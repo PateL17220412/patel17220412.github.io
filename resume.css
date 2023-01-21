@@ -1,0 +1,36 @@
+*{
+    
+    width:800px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.name1{
+    font-size:30px;
+}
+
+h1{
+    font-weight:'Roboto Mono', monospace;
+    margin-bottom:1px;
+    margin-top:30px;
+}
+span{
+    font-weight:bold;
+    font-size:20px;
+}
+.title{
+    margin-top:4px;
+    font-style:italic;
+}
+p{
+    
+    text-align: justify;
+    
+}
+
+ li{
+
+    
+}
+
+.work-description{
+    margin-bottom:10px;
+}
